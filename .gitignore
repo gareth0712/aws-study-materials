@@ -105,3 +105,6 @@ dist
 
 # AWS
 private
+
+# MacOS Files
+.DS_Store
